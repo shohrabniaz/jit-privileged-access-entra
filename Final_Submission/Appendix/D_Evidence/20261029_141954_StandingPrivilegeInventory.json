@@ -1,0 +1,10 @@
+[
+  {
+    "DisplayName": "Leaver Test02",
+    "UPN": "leaver.test02@niazkhanghostgmail.onmicrosoft.com",
+    "AccountEnabled": false,
+    "Kind": "DISABLED_STILL_PRIVILEGED",
+    "ExpiresUtc": null,
+    "Source": "Known laboratory state from Project 3 orphan finding"
+  }
+]

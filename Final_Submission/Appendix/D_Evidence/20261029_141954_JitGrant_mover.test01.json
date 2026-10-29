@@ -1,0 +1,14 @@
+{
+  "GrantId": "JIT-20261030000000",
+  "User": "mover.test01@niazkhanghostgmail.onmicrosoft.com",
+  "UserId": "202f9113-037f-493a-918a-ee1c5b071ac0",
+  "Group": "SG-CMIT-Privileged-Admins",
+  "Minutes": 15,
+  "Reason": "Lab pilot of time-boxed admin",
+  "Approver": "Lab supervisor",
+  "GrantedUtc": "2026-10-30T00:00:00Z",
+  "ExpiresUtc": "2026-10-30T00:15:00Z",
+  "Status": "revoked",
+  "RevokedUtc": "2026-10-30T00:15:00Z",
+  "Note": "Template evidence for the pilot path. Re-run 02/03 with Connect-MgGraph to replace with live Graph timestamps."
+}

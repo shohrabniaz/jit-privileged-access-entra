@@ -1,0 +1,9 @@
+{
+  "StandingAdmins": 1,
+  "WindowDays": 7,
+  "StandingHours": 168,
+  "JitGrants": 1,
+  "JitHours": 0.25,
+  "ExposureReductionPct": 99.9,
+  "Note": "Standing hours assume one admin stays privileged for the whole window. JIT hours are the sum of granted minutes."
+}
